@@ -1,7 +1,7 @@
 # Druva inSync Docker container
 A simple [Druva inSync](https://www.druva.com) container for Docker testing  
 
-*Please note, this container will not allow full fledged use or access to a Druva inSync instance. This will simply afford you a simple containerized client for testing purposes.*
+*Please note, this container will not allow full fledged use or access to a Druva inSync instance. This will simply afford you a simple containerized client for testing purposes with your own Druva inSync instance.*
 
 ## Example Usage
 ```
