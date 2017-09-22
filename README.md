@@ -10,7 +10,7 @@ docker create \
 -e INSYNC_MAIL="user@domain.org" \
 -e INSYNC_USERNAME="User Name" \
 --name=insync \
-1activegeek/insync
+1activegeek/druva_insync
 ```
 
 ## Environment Variables - with defaults listed
