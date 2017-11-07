@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER Shawn Mix, "@1activegeek"
+MAINTAINER Shawn Mix, @1activegeek
 
 # global environment Settings
 ENV INSYNC_ADDRESS="cloud.druva.com" \
